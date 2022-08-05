@@ -29,15 +29,15 @@
 - 📫 How to reach me: osemengt@gmail.com
 
 <p>
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/aws.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ansible.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/aws.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ansible.png" width="45" height="45">
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ethereum.svg" width="45" height="45">
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/cloud.png" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/linux.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/terraform.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/grafana.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/docker.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/kubernetes.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/linux.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/terraform.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/grafana.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/docker.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/kubernetes.png" width="45" height="45">
 </p>
 
 <p>
