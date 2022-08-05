@@ -29,7 +29,7 @@
 - 📫 How to reach me: osemengt@gmail.com
 
 <p>
-<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/awsc.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/awsc1.png" width="45" height="45">
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ansible.png" width="45" height="45">
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ethereum.svg" width="45" height="45">
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/cloud.png" width="45" height="45">
