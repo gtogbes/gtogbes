@@ -6,8 +6,8 @@
 [![Linkedin: Gtogbes](https://img.shields.io/badge/-Gtogbes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)](https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)
 [![GitHub Gtogbes](https://img.shields.io/github/followers/Gtogbes?label=follow&style=social)](https://github.com/gtogbes)
 <p>
-<!--   <img src="https://github.com/gtogbes/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/Ethereum.gif" width="200" height="150">
+<!--   <img src="https://github.com/gtogbes/lordvins226/blob/main/assets/animation1.gif" width="150" height="200"> -->
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/Ethereum.gif" width="200" height="150">
 </p>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/gtogbes/)
@@ -29,18 +29,18 @@
 - 📫 How to reach me: osemengt@gmail.com
 
 <p>
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/aws.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/ansible.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/ethereum.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/cloud.png" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/linux.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/terraform.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/grafana.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/docker.svg" width="45" height="45">
-<img src="https://github.com/gtogbes/gtogbes/blob/master/assets/kubernetes.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/aws.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ansible.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/ethereum.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/cloud.png" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/linux.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/terraform.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/grafana.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/docker.svg" width="45" height="45">
+<img src="https://github.com/gtogbes/gtogbes/blob/main/assets/kubernetes.svg" width="45" height="45">
 </p>
 
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
+  <img src="https://github.com/lordvins226/lordvins226/blob/main/assets/animation2.gif" width="300" height="300">
 </p>
 
