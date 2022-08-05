@@ -6,7 +6,7 @@
 [![Linkedin: Gtogbes](https://img.shields.io/badge/-Gtogbes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)](https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)
 [![GitHub Gtogbes](https://img.shields.io/github/followers/Gtogbes?label=follow&style=social)](https://github.com/gtogbes)
 <p>
-<!--   <img src="https://github.com/gtogbes/lordvins226/blob/main/assets/animation1.gif" width="150" height="200"> -->
+<!--   <img src="https://github.com/gtogbes/lordvins226/blob/master/assets/animation1.gif" width="150" height="200"> -->
 <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/Ethereum.gif" width="200" height="150">
 </p>
 
@@ -41,6 +41,6 @@
 </p>
 
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/main/assets/animation2.gif" width="300" height="300">
+  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
 </p>
 
