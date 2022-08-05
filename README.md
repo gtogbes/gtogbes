@@ -17,7 +17,8 @@
 > I am fascinated by DevOps Practices,Cloud computing, everything Automation, and Blockchain.
 > I want to have my name as builder, Team player, collaborator and, or contributor in the next best Technologies.
 > I have a BSC in Agricultural Economics and Resources Management! and Plan to Pursue masters and PHD in DevSecops.
-> I have three years handson experience in Cloud Operations, and DevOps
+> I have three years handson experience in Cloud Operations, and DevOps.
+
 > I want to make significant impact in people's lives and mentor enthusiasts in cloud computing, and DevOps.
 
 ![Gtogbes's github stats](https://github-readme-stats.vercel.app/api?username=gtogbes&count_private=true&show_icons=true&theme=tokyonight)
