@@ -41,6 +41,6 @@
 </p>
 
 <p>
-  <img src="https://github.com/lordvins226/lordvins226/blob/master/assets/animation2.gif" width="300" height="300">
+  <img src="https://github.com/gtogbes/gtogbes/blob/main/assets/animation2.gif" width="300" height="300">
 </p>
 
