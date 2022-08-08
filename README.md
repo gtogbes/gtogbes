@@ -22,7 +22,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gtogbes&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=gtogbes&layout=compact&theme=gruvbox&hide=html&langs_count=8)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gtogbes)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working as a Lead DevOps Engineer in a startup 
 - 🌱 I’m currently learning and improving on my skills as a Cloud DevOps Engineer and Contributing to Open source Projects.
