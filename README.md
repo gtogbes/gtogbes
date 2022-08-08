@@ -20,9 +20,9 @@
 > I have three years handson experience in Cloud Operations, and DevOps.
 > I want to make great significant impact in people's lives and mentor enthusiasts in cloud computing, and DevOps.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gtogbes&count_private=true&show_icons=true&theme=Gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gtogbes&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=gtogbes&layout=compact&theme=gruvbox&hide=html&langs_count=8)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gtogbes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gtogbes&repo=github-readme-stats)](https://github.com/gtogbes/github-readme-stats)
 
 
 - 🔭 I’m currently working as a Lead DevOps Engineer in a startup 
