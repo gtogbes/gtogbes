@@ -2,6 +2,10 @@
 
 [![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Ogbeide+Godstime+Osemenkhian+👽;This+is+my+profile+🚀&font=ubuntu&color=32a852&center=true)](https://git.io/typing-svg)
 
+## About Me 😄
+> I am fascinated by DevOps Practices, Cloud computing, everything Automation, Blockchain, etc.
+> I love to significantly impact people's lives and mentor enthusiasts in cloud computing, and DevOps.
+
 </div>
 
 <br>
@@ -56,18 +60,9 @@ count: number = 0;
 <div align="center">
     <a href="https://profile-counter.glitch.me"><img alt="Ogbeide's GitHub Visitors" src="https://profile-counter.glitch.me/gtogbes/count.svg"/></a>
 </div>
-
-
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
-## Hello, I'm Ogbeide Osemenkhian 😄
-> I am fascinated by DevOps Practices,Cloud computing, everything Automation, and Blockchain.
-> I have three years handson experience in Cloud Operations, and DevOps.
-> I want to make great significant impact in people's lives and mentor enthusiasts in cloud computing, and DevOps.
-
-
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=gtogbes&layout=compact&theme=gruvbox&hide=html&langs_count=8)
+
+
 
 - 🔭 I’m currently working as a Senior DevOps Engineer MTN Group Fintech SA.
 - 📫 How to reach me: osemengt@gmail.com
