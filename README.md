@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Ogbeide+Godstime+Osemenkhian+👽;This+is+my+profile+🚀&font=ubuntu&color=32a852&center=true)](https://git.io/typing-svg)
+[![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Yep!+👋;Nice+to+meet+you!+😚;My+name+is+Ogbeide+👽;This+is+my+profile+🚀&font=ubuntu&color=32a852&center=true)](https://git.io/typing-svg)
 
 ## About Me 😄
 > I am fascinated by DevOps Practices, Cloud computing, everything Automation, Blockchain, etc.
