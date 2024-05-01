@@ -64,8 +64,8 @@ count: number = 0;
 - 🔭 I’m currently working as a Senior DevOps Engineer MTN Group Fintech SA.
 - 📫 How to reach me: osemengt@gmail.com
 
-[![Twitter: Gtogbes](https://img.shields.io/twitter/follow/osemengt?style=social)](https://twitter.com/osemenGT)
-[![Linkedin: Gtogbes](https://img.shields.io/badge/-Gtogbes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)](https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)
-[![GitHub Gtogbes](https://img.shields.io/github/followers/Gtogbes?label=follow&style=social)](https://github.com/gtogbes)
+    [![Twitter: Gtogbes](https://img.shields.io/twitter/follow/osemengt?style=social)](https://twitter.com/osemenGT)
+    [![Linkedin: Gtogbes](https://img.shields.io/badge/-Gtogbes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)](https://www.linkedin.com/in/ogbeide-osemenkhian-bb70021a3)
+    [![GitHub Gtogbes](https://img.shields.io/github/followers/Gtogbes?label=follow&style=social)](https://github.com/gtogbes)
 
 
