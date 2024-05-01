@@ -60,6 +60,7 @@ count: number = 0;
 <div align="center">
     <a href="https://profile-counter.glitch.me"><img alt="Ogbeide's GitHub Visitors" src="https://profile-counter.glitch.me/gtogbes/count.svg"/></a>
 </div>
+
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=gtogbes&layout=compact&theme=gruvbox&hide=html&langs_count=8)
 
 
