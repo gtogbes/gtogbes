@@ -61,9 +61,6 @@ count: number = 0;
     <a href="https://profile-counter.glitch.me"><img alt="Ogbeide's GitHub Visitors" src="https://profile-counter.glitch.me/gtogbes/count.svg"/></a>
 </div>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=gtogbes&layout=compact&theme=gruvbox&hide=html&langs_count=8)
-
-
 
 - 🔭 I’m currently working as a Senior DevOps Engineer MTN Group Fintech SA.
 - 📫 How to reach me: osemengt@gmail.com
