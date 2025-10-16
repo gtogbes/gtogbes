@@ -57,7 +57,7 @@ count: number = 0;
 ```
 
 <div align="center">
-    <a href="https://profile-counter.glitch.me"><img alt="Ogbeide's GitHub Visitors" src="https://profile-counter.glitch.me/gtogbes/count.svg"/></a>
+    <img alt="Ogbeide's GitHub Visitors" src="https://komarev.com/ghpvc/?username=gtogbes&color=green"/>
 </div>
 
 
