@@ -62,6 +62,7 @@ count: number = 0;
 
 
 - 🔭 I’m currently working as a Senior DevOps Engineer.
+- 🌐 Portfolio: [ogbes.com](https://ogbes.com)
 - 📫 How to reach me: osemengt@gmail.com
 
     [![Twitter: Gtogbes](https://img.shields.io/twitter/follow/osemengt?style=social)](https://twitter.com/osemenGT)
