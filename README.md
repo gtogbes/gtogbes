@@ -41,7 +41,6 @@ stats: Stats = new Stats();
 // How it's going
 ```
 <div align="center">
-<a href="https://git.io/streak-stats"><img alt="Ogbeide's GitHub Streak" src="https://streak-stats.demolab.com/?user=gtogbes&theme=dark" height="192px"/></a>
 <a href="https://git.io/streak-stats"><img alt="Ogbeide's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gtogbes&theme=dark" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guillermotti's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gtogbes&show_icons=true&count_private=true&theme=dark&custom_title=Ogbeide's+GitHub+Stats" height="192px"/></a>
   <br/>
@@ -58,11 +57,12 @@ count: number = 0;
 ```
 
 <div align="center">
-    <a href="https://profile-counter.glitch.me"><img alt="Ogbeide's GitHub Visitors" src="https://profile-counter.glitch.me/gtogbes/count.svg"/></a>
+    <img alt="Ogbeide's GitHub Visitors" src="https://komarev.com/ghpvc/?username=gtogbes&color=green"/>
 </div>
 
 
 - 🔭 I’m currently working as a Senior DevOps Engineer.
+- 🌐 Portfolio: [ogbes.com](https://ogbes.com)
 - 📫 How to reach me: osemengt@gmail.com
 
     [![Twitter: Gtogbes](https://img.shields.io/twitter/follow/osemengt?style=social)](https://twitter.com/osemenGT)
